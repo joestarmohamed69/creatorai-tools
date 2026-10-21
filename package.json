@@ -1,0 +1,8 @@
+{
+  "name": "creatorai-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CreatorAI Studio - AI tools for content creators (zero dependencies)",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=22.5.0" }
+}
